@@ -9,7 +9,7 @@ import numpy
 import openai
 import csv
 import time
-openai.api_key = "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"
+openai.api_key = //your open api key here
 
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract'
