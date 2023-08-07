@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = //your chatgpt api key
 
 
 specpoint = ""
